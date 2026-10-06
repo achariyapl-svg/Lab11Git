@@ -11,6 +11,6 @@ package com.mycompany.gitandgithub;
 public class GitandGitHub {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        System.out.println("Hello github");
     }
 }
